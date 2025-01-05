@@ -20,7 +20,7 @@ El código en C++ resuelve ambas partes del problema. A continuación, se explic
 
     **Ejemplo de Entrada**
 
-    
+    ```
     7   6
     2   3
     8   4
