@@ -26,7 +26,7 @@ El código en C++ resuelve ambas partes del problema. A continuación, se explic
     8   4
     1   5
     3   9
-    `fin`
+    fin
 
 2. **Ordenamiento**:
    - Ambas listas se ordenan utilizando el algoritmo de divide y vencerás **Merge Sort** para que ambas listas queden emparejadas y facilite los cálculos posteriores.Este algoritmo funciona de la siguiente forma: divide el conjunto de elementos en subconjuntos más pequeños, los ordena por separado y luego los fusiona para obtener un conjunto ordenado más grande. Este algoritmo utiliza una estrategia de divide y vencerás.
